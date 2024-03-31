@@ -34,5 +34,5 @@ The designs were created to the following widths:
 - Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
 - Weights: 400
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)+
 - Weights: 400, 600, 700
